@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305967773269",
+    "firebase_url": "https://backgroundremover-87d48-default-rtdb.firebaseio.com",
+    "project_id": "backgroundremover-87d48",
+    "storage_bucket": "backgroundremover-87d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305967773269:android:cb4c0f97af84801bd706dc",
+        "android_client_info": {
+          "package_name": "com.f08.backgroundremover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305967773269-l5uuqhpt9025n3f9dpqtivb1m6oqogoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdobzmdSHoYR7awFYmsbnQ_NCaF5DN7wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305967773269-l5uuqhpt9025n3f9dpqtivb1m6oqogoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

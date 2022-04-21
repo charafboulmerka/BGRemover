@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BG Remover</string>
+    <string name="privacy_text">By uploading your pictures you agree to our<b> Privacy Policy</b></string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="share_image_via">Share File via...</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-2866054899253844~7020454321</string>
+    <string name="admob_banner_ad" translatable="false">ca-app-pub-2866054899253844/4394290986</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="admob_native_ad" translatable="false">ca-app-pub-2866054899253844/1576555954</string>
+
+
+
+    <string name="facebook_app_id" translatable="false">956991281651560</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1234</string>
+    <string name="facebook_client_token" translatable="false">c114d140c91bdd34907ef4a6162b2bd7</string>
+
+</resources>
